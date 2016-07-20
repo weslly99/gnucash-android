@@ -32,5 +32,6 @@ android:
 #  - adb shell input keyevent 82 &
 
 script:
-  - ./gradlew build
+   - chmod +x ./gradlew
+ #- ./gradlew build
 #  - ./gradlew connectedCheck
