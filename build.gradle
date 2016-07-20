@@ -5,7 +5,11 @@ buildscript {
 	}
 	dependencies {
 		classpath 'com.android.tools.build:gradle:2.1.2'
+<<<<<<< HEAD
 		classpath 'io.fabric.tools:gradle:1.+'
+=======
+		classpath 'io.fabric.tools:gradle:1.21.2'
+>>>>>>> 1aa3af1d4f54a09010ef9cc4a42b4058552f6617
 	}
 }
 
